@@ -1,17 +1,14 @@
 前端的课程开始了！跟着彭老师努力学习，早日学成
-
 :::danger
 需要大家填写的地方为
 1.github的主页地址：参考示例
 2.表格部分直接复制即可
+3.写上语雀知识库的地址
 :::
-
 ## Github
 
 github地址：[https://github.com/duhe1234](https://github.com/duhe1234)
-
 ## Timeline
-
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
 如有特殊情况或者建议请在备注中填写~
@@ -58,3 +55,6 @@ github地址：[https://github.com/duhe1234](https://github.com/duhe1234)
 | 38 | pwa |  |  |
 | 39 | react native |  |  |
 | 40 | electron |  |  |
+
+## 语雀知识库
+地址：https://www.yuque.com/docs/share/4d760580-c879-4a6d-828b-8dadd521a79e?# 《README》
