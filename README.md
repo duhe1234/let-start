@@ -57,4 +57,4 @@ github地址：[https://github.com/duhe1234](https://github.com/duhe1234)
 | 40 | electron |  |  |
 
 ## 语雀知识库
-地址：https://www.yuque.com/docs/share/4d760580-c879-4a6d-828b-8dadd521a79e?# 《README》
+地址：https://www.yuque.com/wuming-o8pe1/skb2xk
